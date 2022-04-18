@@ -1,13 +1,13 @@
-# Template de Projeto Laravel 8 - TALL Stack
+<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-**Aqui você tem:**
+# Laravel: estruturando sua aplicação utilizando DDD
 
-- Laravel 8
-- Tailwind CSS 3 + JIT
-- Livewire 2.x
-- Alpine.js
-- e muito mais
+Nessa aula você vai conhecer um novo padrão de projeto chamado DDD (que não é um prefixo de telefone). Esse padrão visa te ajudar a segmentar a sua aplicação de forma que o entendimento em cima de cada parte da aplicação seja mais fácil e escalável.
 
-## Como eu uso esse projeto?
+Bora? 🚀
 
-- TODO: completar o readme
+## Expert
+
+| [<img src="https://avatars.githubusercontent.com/u/671670?v=4" width="75px;"/>](https://github.com/patrickmaciel) |
+| :---------------------------------------------------------------------------------------------------------------: |
+|                                [Patrick Maciel](https://github.com/patrickmaciel)                                 |
