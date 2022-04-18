@@ -16,7 +16,9 @@
     <title>patrickmaciel - Laravel 8 TALL Boilerplate</title>
 </head>
 <body class="antialiased">
-    {{ $slot }}
+    @yield('content')
+
+    {{-- {{ $slot }} --}}
 
     @livewireScripts()
     <script src="{{ mix('js/app.js') }}"></script>
